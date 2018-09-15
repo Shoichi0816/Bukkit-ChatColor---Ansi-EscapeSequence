@@ -15,5 +15,5 @@
 |0;32;1m|GREEN|![GREEN](http://placehold.it/100x20/55FF55/55FF55/)|
 |0;35;1m|LIGHT_PURPLE|![LIGHT_PURPLE](http://placehold.it/100x20/FF55FF/FF55FF/)|
 |0;31;1m|RED|![RED](http://placehold.it/100x20/FF5555/FF5555/)|
-|0;37;1m|WHITE|![WHITE](http://placehold.it/100x20/FFF/FFF/)|
 |0;33;1m|YELLOW|![enter image description here](http://placehold.it/100x20/FFFF55/FFFF55/)|
+|0;37;1m|WHITE|![WHITE](http://placehold.it/100x20/FFF/FFF/)|
