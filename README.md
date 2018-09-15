@@ -17,3 +17,5 @@
 |0;31;1m|RED|![RED](http://placehold.it/100x20/FF5555/FF5555/)|
 |0;33;1m|YELLOW|![enter image description here](http://placehold.it/100x20/FFFF55/FFFF55/)|
 |0;37;1m|WHITE|![WHITE](http://placehold.it/100x20/FFF/FFF/)|
+> [ ChatColor to Hex ]
+> https://www.digminecraft.com/lists/color_list_pc.php
